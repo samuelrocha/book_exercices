@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
-#define N 3
+#define N 6
 
 void clear_keyboard_buffer(void)
 {
