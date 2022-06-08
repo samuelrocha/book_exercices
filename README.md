@@ -1,0 +1,1 @@
+# Activities from de book "Linguagem C Completa e Descomplicada"
