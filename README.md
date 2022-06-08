@@ -1,1 +1,1 @@
-# Activities from de book "Linguagem C Completa e Descomplicada"
+# Activities from the book "Linguagem C Completa e Descomplicada"
